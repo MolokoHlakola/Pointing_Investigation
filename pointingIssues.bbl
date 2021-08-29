@@ -1,0 +1,25 @@
+\begin{thebibliography}{1}
+
+\bibitem{Bayley}
+Bayley A.M.
+\newblock Thermal effects on the pointing of the 32-m merlin radio telescope at
+  cambridge.
+\newblock 283:1051--1057, 1994.
+
+\bibitem{Tony}
+Foley A.R.
+\newblock {\em MeerKAT interferometric pointing}.
+\newblock SARAO internal document, 2019.
+
+\bibitem{kong}
+De-Qing Kong.
+\newblock A new calibration model for pointing a radio telescope that considers
+  nonlinear errors in the azimuth axis.
+\newblock 14(6):733–740, 2014.
+
+\bibitem{SE}
+Adrian Peens-Hough.
+\newblock {\em Tiltmeter Monitoring Report: m032}.
+\newblock SARAO internal document, 2020.
+
+\end{thebibliography}

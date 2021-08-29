@@ -1,0 +1,26 @@
+\contentsline {section}{\numberline {1}Introduction}{6}
+\contentsline {section}{\numberline {2}Approach}{6}
+\contentsline {section}{\numberline {3}Collection of Data}{6}
+\contentsline {subsection}{\numberline {3.1}Wind and Temperature Patterns }{7}
+\contentsline {subsection}{\numberline {3.2}Antenna m033 Pointing Check Script Data }{8}
+\contentsline {subsection}{\numberline {3.3}Antenna m009 Pointing Check Script Results }{29}
+\contentsline {subsection}{\numberline {3.4}Correlation Between Temperature and Pointing Error }{48}
+\contentsline {subsection}{\numberline {3.5}Correlation Between Wind Speed and Pointing Shift }{49}
+\contentsline {section}{\numberline {4}Analysis of Data}{49}
+\contentsline {subsection}{\numberline {4.1}Effects of Temperature and Wind on pointing Accuracy}{49}
+\contentsline {subsection}{\numberline {4.2}Faulty Components}{50}
+\contentsline {subsection}{\numberline {4.3}Pointing Model Deficiencies - Temperature and Wind factors}{50}
+\contentsline {section}{\numberline {5}Conclusion}{50}
+\contentsline {section}{\numberline {6}Appendix}{52}
+\contentsline {section}{\numberline {A}JIRA MKAIV-487 Investigation -Single dish pointing approach }{52}
+\contentsline {subsection}{\numberline {A.1}Introduction}{52}
+\contentsline {subsection}{\numberline {A.2}M025 status before disconnection on the 18 Jan 2017:}{52}
+\contentsline {subsection}{\numberline {A.3}M025 status after maintenance and connection on the 21 Jan 2017}{53}
+\contentsline {subsection}{\numberline {A.4}Discussion and Conclusion}{54}
+\contentsline {section}{\numberline {B}JIRA OPS-122 Investigation -Visual Inspection Approach }{55}
+\contentsline {subsection}{\numberline {B.1}Introduction}{55}
+\contentsline {subsection}{\numberline {B.2}Investigation}{56}
+\contentsline {subsection}{\numberline {B.3}Conclusion}{56}
+\contentsline {section}{\numberline {C}Pointing Investigation - Pointing Check Script Approach }{56}
+\contentsline {subsection}{\numberline {C.1}Introduction}{56}
+\contentsline {section}{\numberline {D}Jupyter Notebook Code Used for Analysis of Data }{56}
